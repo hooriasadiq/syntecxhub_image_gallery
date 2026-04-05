@@ -53,7 +53,7 @@ project-folder/
 
 ## 🌐 Live Demo
 
-👉 [Click here to view the project](https://hooriasadiq.github.io/syntecxhub_image_gallery/)
+👉 (https://hooriasadiq.github.io/syntecxhub_image_gallery/)
 
 ---
 ## 🙌 Author
